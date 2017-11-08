@@ -1,0 +1,79 @@
+Scores from p2 for Qiu,Ming Xie,Kaichi 
+
+Note that the format for authors.csv is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: mqiu@ucdavis.edu kcxie@ucdavis.edu  
+BTree1.dat 3 4:
+OK
+ 
+BTree2.dat 3 4:
+OK
+  
+BTree5.dat 3 4:
+OK
+ 
+BTree12.dat 3 4:
+OK
+ 
+BTree25.dat 3 4:
+OK
+ 
+BTree5.dat 5 2:
+OK
+ 
+BTree12.dat 5 2:
+OK
+ 
+BTree25.dat 5 2:
+Yours: 
+Leaf: 47 53 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Internal: 8 47 
+Internal: 8 12 22 27 37 47 
+Internal: 47 54 57 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 
+Leaf: 47 53 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+
+Sean's: 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Internal: 1 27 47 
+Internal: 1 8 10 13 22 
+Internal: 27 35 40 
+Internal: 47 54 57 67 80 
+Leaf: 1 
+Leaf: 8 9 
+Leaf: 10 12 
+Leaf: 13 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+ 
+BTree12.dat 2 6:
+OK
+ 
+BTree25.dat 2 6:
+OK
+ 
+Total score: 45
